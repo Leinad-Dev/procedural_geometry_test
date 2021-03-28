@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class procedural_geo : MonoBehaviour
+public class QuadGenerator : MonoBehaviour
 {
     private void Awake()
     {
